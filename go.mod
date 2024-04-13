@@ -41,7 +41,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.9.0
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	golang.org/x/exp v0.0.0-20240103183307-be819d1f06fc
 	golang.org/x/net v0.19.0 // indirect
