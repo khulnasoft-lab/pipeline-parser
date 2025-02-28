@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/pipeline-parser
 
 go 1.21
 
-toolchain go1.23.4
+toolchain go1.24.0
 
 require (
 	github.com/go-test/deep v1.0.8
