@@ -25,6 +25,8 @@ github.com/hashicorp/go-multierror v1.1.1 h1:H5DkEtf6CXdFp0N0Em5UCwQpXMWke8IA0+l
 github.com/hashicorp/go-multierror v1.1.1/go.mod h1:iw975J/qwKPdAO1clOe2L8331t/9/fmwbPZ6JB6eMoM=
 github.com/imroc/req/v3 v3.41.4 h1:FE82yJrRjpFfDLbabU3rUMEXzJVkp1Xcqf6oyFHC1Bo=
 github.com/imroc/req/v3 v3.41.4/go.mod h1:JxpRRITYTOcuqQJxHSPVvEKhAL9ayo7BpUXHbL2T5IE=
+github.com/imroc/req/v3 v3.43.4 h1:NSXlB5dELZuxzGEFRWLWEQ9dQmh8d9pUMPa7MevK1K4=
+github.com/imroc/req/v3 v3.43.4/go.mod h1:SQIz5iYop16MJxbo8ib+4LnostGCok8NQf8ToyQc2xA=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/klauspost/compress v1.17.7 h1:ehO88t2UGzQK66LMdE8tibEd1ErmzZjNEqWkjLAKQQg=
