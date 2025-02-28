@@ -9,7 +9,7 @@ require (
 	github.com/imroc/req/v3 v3.43.4
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/pkg/errors v0.9.1
-	github.com/r3labs/diff/v3 v3.0.0
+	github.com/r3labs/diff/v3 v3.0.1
 	github.com/spf13/cobra v1.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -30,6 +30,8 @@ require (
 	github.com/quic-go/qtls-go1-20 v0.4.1 // indirect
 	github.com/quic-go/quic-go v0.41.0 // indirect
 	github.com/refraction-networking/utls v1.6.3 // indirect
+	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
+	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	go.uber.org/mock v0.4.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.16.0 // indirect
