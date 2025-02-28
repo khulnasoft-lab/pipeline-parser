@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.23.4
 
 require (
-	github.com/go-test/deep v1.0.8
+	github.com/go-test/deep v1.1.1
 	github.com/imroc/req/v3 v3.43.4
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/pkg/errors v0.9.1
